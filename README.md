@@ -35,6 +35,15 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishitaVerma25&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishitaVerma25&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+---
+
 ## 📬 Reach Out
 
 - *LinkedIn:* https://www.linkedin.com/in/rishita-verma-7064b0305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
