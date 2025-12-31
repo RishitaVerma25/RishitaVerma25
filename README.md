@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🪐 Greetings, I'm Rishita
 
-<!--
-**RishitaVerma25/RishitaVerma25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ B.Tech CSE Student | 💻 Crafting for the Web
+🌉 Merging *Backend Stability* with *Frontend Precision*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 My Philosophy
+
+* I don't just build apps; I build *seamless user journeys*.
+* I enjoy the *logic-heavy puzzles of Python* just as much as *CSS styling*.
+* Dedicated to *clean architecture* and intuitive design systems.
+
+---
+
+## 🛠️ The Toolkit (Evolving 🌱)
+
+- *Programming:* Python & JavaScript (Basics)
+- *Structuring:* HTML5 & CSS3
+- *Environment:* Linux & Git
+- *Design:* Figma
+
+* Full-Stack Thinking
+* Design-to-Code Implementation
+* Algorithmic Problem Solving
+* Linux System Navigation
+
+---
+
+## 🚀 Roadmap 2025
+
+* 🏗️ Build a *full-stack portfolio* that showcases my Figma skills.
+* 🧠 Deepen my understanding of *Data Structures* using Python.
+* 🌐 Explore *Backend Frameworks* to connect with my Frontend designs.
+
+---
+
+## 📬 Reach Out
+
+- *LinkedIn:* https://www.linkedin.com/in/rishita-verma-7064b0305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- *Email:* rishitaverma821@gmail.com
+
+
+- *Direct:* Available for collaboration and internships.
+
