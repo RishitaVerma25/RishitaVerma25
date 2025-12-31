@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Roadmap 2025
+## 🚀 Roadmap 2026
 
 * 🏗️ Build a *full-stack portfolio* that showcases my Figma skills.
 * 🧠 Deepen my understanding of *Data Structures* using Python.
